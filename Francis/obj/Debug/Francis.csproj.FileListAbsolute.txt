@@ -41,3 +41,48 @@ c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\zh-h
 c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\obj\Debug\Francis.csprojResolveAssemblyReference.cache
 c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\obj\Debug\Bot Application.dll
 c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\obj\Debug\Bot Application.pdb
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\obj\Debug\Bot Application.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\obj\Debug\Bot Application.pdb
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Bot Application.dll.config
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Bot Application.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Bot Application.pdb
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Autofac.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Chronic.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Microsoft.Bot.Builder.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Microsoft.Bot.Connector.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Newtonsoft.Json.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\System.Net.Http.Formatting.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\System.Web.Http.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\System.Web.Http.WebHost.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Autofac.xml
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Microsoft.Bot.Builder.xml
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Microsoft.Bot.Connector.xml
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\Newtonsoft.Json.xml
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\System.Net.Http.Formatting.xml
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\System.Web.Http.xml
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\System.Web.Http.WebHost.xml
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\obj\Debug\Francis.csprojResolveAssemblyReference.cache
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\lugirard\Documents\GitHub\Francis\Francis\bin\nl\Microsoft.Bot.Builder.resources.dll

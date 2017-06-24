@@ -4,12 +4,19 @@ using System.Threading.Tasks;
 using System.Web.Http;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Connector;
+using Microsoft.Bot.Builder.FormFlow;
+using Francis.Dialogs;
 
 namespace Francis
 {
     [BotAuthentication]
     public class MessagesController : ApiController
     {
+
+        internal static IDialog<OrderForm> MakeOrderDialog()
+        {
+            return Chain.From(() => FormDialog.FromForm(OrderForm.BuildForm));
+        }
         /// <summary>
         /// POST: api/Messages
         /// Receive a message from a user and reply to it
@@ -18,7 +25,8 @@ namespace Francis
         {
             if (activity.Type == ActivityTypes.Message)
             {
-                await Conversation.SendAsync(activity, () => new Dialogs.RootDialog());
+                await Conversation.SendAsync(activity, MakeOrderDialog);
+
             }
             else
             {
