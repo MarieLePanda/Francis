@@ -24,7 +24,7 @@ namespace Francis.Dialogs
 
             // return our reply to the user
             await context.PostAsync($"Hello je suis Francis");
-
+            //context.Forward
             context.Wait(MessageReceivedAsync);
         }
     }
