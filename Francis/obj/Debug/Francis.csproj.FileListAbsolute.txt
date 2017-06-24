@@ -1,0 +1,43 @@
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Bot Application.dll.config
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Bot Application.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Bot Application.pdb
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Autofac.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Chronic.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Microsoft.Bot.Builder.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Microsoft.Bot.Connector.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Newtonsoft.Json.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\System.Net.Http.Formatting.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\System.Web.Http.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\System.Web.Http.WebHost.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Autofac.xml
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Microsoft.Bot.Builder.xml
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Microsoft.Bot.Connector.xml
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\Newtonsoft.Json.xml
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\System.Net.Http.Formatting.xml
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\System.Web.Http.xml
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\System.Web.Http.WebHost.xml
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\it\Microsoft.Bot.Builder.resources.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\nl\Microsoft.Bot.Builder.resources.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\obj\Debug\Francis.csprojResolveAssemblyReference.cache
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\obj\Debug\Bot Application.dll
+c:\users\lugirard\documents\visual studio 2015\Projects\Francis\Francis\obj\Debug\Bot Application.pdb
